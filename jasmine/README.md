@@ -79,7 +79,6 @@ caption="Hiroki Ogawa, *Bodhi Tree Maha Bodhi Temple Bodh Gaya India*, 2015, *Wi
 src=“gh:torichampion/Champion/main/jasmine/Pichcha Mal Pooja.jpg”​
 caption="Chandana Perera, *Pichcha Mal Pooja*, 2014, *Flickr*.">
 
-
 ### Sacred Gardens
 Jasmine flowers occupy significant sensual and symbolic roles in sacred Islamic gardens. Persian gardens greatly influenced the design of Islamic gardens, including the planting of jasmine.20 Persian royalty designed their gardens to be sensually engaging, and jasmine was crucial in cultivating gardens that appealed to visitors’ sense of smell.[^21] Pleasing scents became an important element of Persian and Islamic gardens in part because Yunani medicine—a traditional form of Perso-Arabic medicine practiced in Muslim cultures—taught that “exhilarating fragrances” have a positive therapeutic effect on the human body.[^22] This emphasis on sweet-smelling flowers in the design of sacred gardens made jasmine one of the earliest flower species to be grown in sacred Islamic gardens.[^23]
 <param ve-image
